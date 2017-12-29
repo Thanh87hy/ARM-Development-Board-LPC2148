@@ -41,4 +41,4 @@ Research Design Lab's ARM Development Board Trainer Kit is designed keeping in m
 
 If you have any Quiries, Questions or Concerns, please contact support@researchdesignlab.com
 
-For more details: https://researchdesignlab.com/4-20ma-current-loop-transmitters.html
+For more details: https://researchdesignlab.com/development-baord/arm/arm-development-board-lpc2148-trainer-kit.html
